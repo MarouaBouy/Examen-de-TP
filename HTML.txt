@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="banner">
+        <img src="banner.jpg" alt="Banner">
+        <div class="banner-text">ALL EVENT</div>
+    </div>
+    <div class="events">
+        <div class="event">
+            <div class="event-date">10/05/2018</div>
+            <div class="event-name">Night Laser Show</div>
+            <div class="event-genre">ship-hop rnb #dance</div>
+        </div>
+        <div class="event">
+            <div class="event-date">14/05/2018</div>
+            <div class="event-name">Live Music</div>
+            <div class="event-description">
+                We are happy to announce this special laser show. Special event for our rock fans Live music show DJ Woodsmell will teach you new tricks : please sign up.
+            </div>
+        </div>
+        <div class="event">
+            <div class="event-date">10/04/2018</div>
+            <div class="event-name">DJ-Master Class</div>
+        </div>
+        <div class="event">
+            <div class="event-date">10/04/2018</div>
+            <div class="event-name">Best Night Party</div>
+            <div class="event-genre">party club</div>
+            <div class="event-description">Our traditional event : best hits all night long</div>
+        </div>
+    </div>
+</body>
+</html>

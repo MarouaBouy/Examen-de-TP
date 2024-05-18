@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.banner {
+    position: relative;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.banner-text {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 5px 10px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.events {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.event {
+    width: 48%;
+    background-color: #f2f2f2;
+    margin-bottom: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.event-date {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.event-name {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.event-genre {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.event-description {
+    font-size: 16px;
+}
